@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm George 👋
+
+I am an undergraduate student in Electrical and Computer Engineering at the National Technical University of Athens. My specializations are Signal Processing, Robotics and Electronics. My main interests lie in the areas of image, speech and language processing. I am currently conducting research in audiovisual speech synthesis.
 
 <!--
 **Georgios-Milis/Georgios-Milis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
