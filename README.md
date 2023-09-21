@@ -1,10 +1,8 @@
 ### Hi, I'm George 👋
 
-I am an undergraduate student in Electrical and Computer Engineering at the National Technical University of Athens. My specializations are Signal Processing, Robotics and Electronics. My main interests lie in the areas of image, speech and language processing. I am currently conducting research in audiovisual speech synthesis.
+I am an undergraduate student of Electrical and Computer Engineering at the National Technical University of Athens, specializing in Signal Processing, Robotics, and Electronics. My main interests are image, speech, and language processing. I am currently conducting research in text-driven talking face generation as part of my diploma thesis.
 
 <!--
-**Georgios-Milis/Georgios-Milis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
