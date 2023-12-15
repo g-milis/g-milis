@@ -1,6 +1,6 @@
 ### Hi, I'm George 👋
 
-I am an undergraduate student of Electrical and Computer Engineering at the National Technical University of Athens, specializing in Signal Processing, Robotics, and Electronics. My main interests are image, speech, and language processing. I am currently conducting research in audiovisual speech synthesis as part of my diploma thesis. After a lot of hard work, we are in the process of publishing a text-driven talking face generator that boast realistic lip articulation.
+I am an undergraduate student of Electrical and Computer Engineering at the National Technical University of Athens, specializing in Signal Processing, Robotics, and Electronics. My main interests are image, speech, and language processing. I am conducting research in the area of audiovisual speech and recently released NEUTART, a photorealistic text-driven talking face generator with realistic lip articulation.
 
 <!--
 Here are some ideas to get you started:
