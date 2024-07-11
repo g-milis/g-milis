@@ -1,6 +1,6 @@
 ### Hi, I'm George 👋
 
-I am a recent graduate of Electrical and Computer Engineering at the National Technical University of Athens, specializing in Signal Processing, Robotics, and Electronics. My main interests are image, speech, and language processing. I am conducting research in the area of audiovisual speech and recently released NEUTART, a photorealistic text-driven talking face generator with realistic lip articulation.
+I am an incoming PhD student in Computer Science at the University of Maryland, College Park. My main interests are image, speech, and language processing. I recently graduated from the National Technical University of Athens, where I specialized in Signal Processing, Robotics, and Electronics. I am conducting research in the area of audiovisual speech and recently released NEUTART, a photorealistic text-driven talking face generator with realistic lip articulation.
 
 <!--
 Here are some ideas to get you started:
