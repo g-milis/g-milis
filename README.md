@@ -1,6 +1,6 @@
 ### Hi, I'm George 👋
 
-I am a second-year PhD student in Computer Science at the University of Maryland, College Park. My main interests are AI safety and synthetic media. I have an MEng in Electrical & Computer Engineering from the National Technical University of Athens, where I specialized in signal processing.
+I am a third-year PhD student in Computer Science at the University of Maryland, College Park. My main interests are AI transparency and synthetic media. I have an MEng in Electrical & Computer Engineering from the National Technical University of Athens, where I specialized in signal processing.
 
 <!--
 Here are some ideas to get you started:
